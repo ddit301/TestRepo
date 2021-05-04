@@ -33,12 +33,12 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-Park&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrGil&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskan19&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh Won&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonghoonWon&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Park&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGil&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskan19&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh Won&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghoonWon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 We're currently learning full-stack development

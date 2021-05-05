@@ -52,7 +52,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 - 🤔 We're looking for help with playddit refactoring and deployment
 - 💬 Ask us about Apple and Mac development environment 
 - 📫 How to reach us: https://github.com/ddit301
-- 📫 Leave us some issueses!
+- 📫 Leave us some issueses!!
 
 <details open>
   <summary>2021 History</summary>
